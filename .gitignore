@@ -1,4 +1,26 @@
-.idea/
-build/
-.gradle
+# Java template
+*.class
 
+# Mobile Tools for Java (J2ME)
+*.pid
+*.tmp
+*.old
+*~
+*.diff
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+# IDEA Config files
+*.ipr
+*.iws
+*.iml
+.idea/
+target/
+build/
+.gradle/
